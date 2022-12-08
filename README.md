@@ -2,7 +2,7 @@
 
 Random C script training...
 
-![](https://github.com/mateusbaleta/bashTraining/blob/main/img/shell-script-logo.png?raw=true)
+![](https://github.com/mateusbaleta/cTraining/blob/main/img/cLang.png?raw=true)
 
 ## 🚀 Run
 
